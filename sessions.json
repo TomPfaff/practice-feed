@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sample-basic-rock-beat",
+    "title": "Sample Kit - Basic Rock Beat [01]",
+    "artist": "Sample Kit",
+    "song": "Basic Rock Beat",
+    "session": 1,
+    "date": "2026-07-20",
+    "audio": "audio/sample-basic-rock-beat.mp3",
+    "picture": "pictures/sample-basic-rock-beat.svg",
+    "duration": 31.0,
+    "size": 497993
+  },
+  {
+    "id": "sample-funk-groove",
+    "title": "Sample Kit - Funk Groove [02]",
+    "artist": "Sample Kit",
+    "song": "Funk Groove",
+    "session": 2,
+    "date": "2026-07-18",
+    "audio": "audio/sample-funk-groove.mp3",
+    "picture": "pictures/sample-funk-groove.svg",
+    "duration": 28.7,
+    "size": 461142
+  },
+  {
+    "id": "sample-halftime-shuffle",
+    "title": "Sample Kit - Half-Time Shuffle [03]",
+    "artist": "Sample Kit",
+    "song": "Half-Time Shuffle",
+    "session": 3,
+    "date": "2026-07-14",
+    "audio": "audio/sample-halftime-shuffle.mp3",
+    "picture": "pictures/sample-halftime-shuffle.svg",
+    "duration": 28.3,
+    "size": 454380
+  }
+]

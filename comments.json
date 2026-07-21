@@ -1,0 +1,24 @@
+{
+  "sample-basic-rock-beat": [
+    {
+      "id": "6f0d2c1a-8b3e-4b6f-9c2d-1a5e7f4b0c11",
+      "t": 5.2,
+      "text": "Solid time here — click here to jump to this spot",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "9a4b8e2d-3c7f-4d1a-b6e9-2f8c0d5a7e22",
+      "t": 18.7,
+      "text": "Open hi-hat lands nicely at the end of the bar",
+      "date": "2026-07-20"
+    }
+  ],
+  "sample-funk-groove": [
+    {
+      "id": "c3e7a1f9-5d2b-4e8c-a0f4-7b9d1c6e3a33",
+      "t": 10.4,
+      "text": "The ghost note on the “and” is what makes this groove",
+      "date": "2026-07-18"
+    }
+  ]
+}
