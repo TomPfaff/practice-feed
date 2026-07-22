@@ -14,7 +14,7 @@ Built for drummers, works for any instrument.
 
 > **Fair warning: this is vibe-coded.** An AI and I built it together, and it
 > works great for me — but read it with that in mind. If it helped you, you can
-> [buy me a coffee](https://www.buymeacoffee.com/tompfaff) and help me pay the
+> [buy me a coffee](https://buymeacoffee.com/tom.p) and help me pay the
 > Claude subscription that built it. ☕
 
 ## ⚠️ You are responsible for what you upload
